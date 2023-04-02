@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+.line1{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	flex-wrap:nowrap;
+	margin:10px;
+}
+.l1{
+	width:7%;
+}
+.line2{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	flex-wrap:nowrap;
+	margin:10px;
+}
+.l2{
+	width:15%;
+}
+.line3{
+	display:flex;
+	flex-diretion:row;
+	justify-content:space-around;
+	flex-wrap:nowrap;
+}
+.l3{
+	width:30%;
+}
